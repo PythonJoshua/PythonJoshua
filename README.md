@@ -6,3 +6,5 @@
 ### The project may become open source once it works fully!
 
 ### This page will often be updated.
+
+![](https://komarev.com/ghpvc/?username=oasiiss&style=flat-square)
