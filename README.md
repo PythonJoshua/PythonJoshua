@@ -9,4 +9,7 @@ A open-source project creator, most of my projects are open-source!
 - Releasing open source projects!
 
 ![Josh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PythonJoshua&show_icons=true&theme=dark)
+
+| Want to support my projects? Donate at: https://paypal.me/j0shua0/ |
+
 ![Josh's Profile Views](https://komarev.com/ghpvc/?username=PythonJoshua&style=flat-square)
