@@ -1,4 +1,4 @@
-`A 14 year old developer and student in england!`
+`Hi! I am a 14 year old developer and student in england!`
 
 **Main Projects:**
 - Jerry (Discord Bot)!
