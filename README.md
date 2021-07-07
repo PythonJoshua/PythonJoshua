@@ -1,12 +1,12 @@
-A open-source project creator, most of my projects are open-source!
+A 14 year old developer and student in england! 
 
 **Main Projects:**
 - Jerry (Discord Bot)!
 
 **My Intrests:**
-- Making discord bots!
-- Developing my coding knowledge!
-- Releasing open source projects!
+`- Making discord bots!
+`- Developing my coding knowledge!
+`- Releasing open source projects!
 
 ![Josh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PythonJoshua&show_icons=true&theme=dark)
 
