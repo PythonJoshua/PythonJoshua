@@ -13,3 +13,4 @@
 | Want to support my projects? Donate at: https://paypal.me/j0shua0/ |
 
 ![Josh's Profile Views](https://komarev.com/ghpvc/?username=PythonJoshua&style=flat-square)
+^ Even 50pents will help fund my discord bot hosting and afford a snack from a vending machine. ^
