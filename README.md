@@ -1,16 +1,14 @@
-`Hi! I am a 14 year old developer and student in england!`
+- # Hello! My name is Joshua and I'm a 14 year old student and developer!
 
-**Main Projects:**
-- Jerry (Discord Bot)!
+# Main Projects
+- 📝 Jerry (Discord Bot)!
+- 💡 joshgit (Website featuring main projects)!
 
-**My Intrests:**
-- Making discord bots!
-- Developing my coding knowledge!
-- Releasing open source projects!
+- ❤️ Intermediate python developer, selling discord bots for cheap! 
+- Fund my projects: https://paypal.me/j0shua0/
 
-![Josh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PythonJoshua&show_icons=true&theme=dark)
+- ![Josh's Profile Views](https://komarev.com/ghpvc/?username=PythonJoshua&style=flat-square)
 
-| Want to support my projects? Donate at: https://paypal.me/j0shua0/ |
+- ![Josh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PythonJoshua&show_icons=true&theme=dark)
 
-![Josh's Profile Views](https://komarev.com/ghpvc/?username=PythonJoshua&style=flat-square)
-^ Even 50pents will help fund my discord bot hosting and afford a snack from a vending machine. ^
+# Even 50pents will help fund my discord bot hosting and afford a snack from a vending machine. ^
