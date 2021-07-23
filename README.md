@@ -11,4 +11,4 @@
 
 - ![Josh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PythonJoshua&show_icons=true&theme=dark)
 
-# Even 50pents will help fund my discord bot hosting and afford a snack from a vending machine. ^
+# Even 50pence will help fund my discord bot hosting and afford a snack from a vending machine. ^
