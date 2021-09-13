@@ -1,10 +1,10 @@
 
 </details>
 
-[twitter]: https://twitter.com/hoemotion77
-[youtube]: https://www.youtube.com/channel/UC88jPrHVvHWec7hOC7tep7A
-[instagram]: https://instagram.com/karma.meme
-[discord]: https://discord.gg/TZdj5BFnRV
+[twitter]: https://twitter.com/idonthaveone
+[youtube]: https://www.youtube.com/channel/joshjs
+[instagram]: https://instagram.com/j0sh.bop
+[discord]: https://discord.gg/8NcEatK2CZ
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
